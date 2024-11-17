@@ -1,0 +1,11 @@
+{
+    "prettier.enable": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "prettier.prettierPath": "./node_modules/prettier/index.cjs",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4
+}
